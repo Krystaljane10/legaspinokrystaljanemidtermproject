@@ -2,8 +2,6 @@
 
 ## Project: Django CRUD Application
 
-### Duration: 2 Weeks
-
 ### Objective: 
 Build a Django-based CRUD application for managing tasks with specific business logic.
 
